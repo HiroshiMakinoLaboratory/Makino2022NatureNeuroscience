@@ -1,3 +1,3 @@
-# Makino_2022_nature_neuroscience
+# Makino2022NatureNeuroscience
 
 Analysis codes for Makino 2022 Nature Neuroscience.
