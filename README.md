@@ -7,7 +7,7 @@ Dataset can be downloaded at https://doi.org/10.5281/zenodo.7283276 on Zenodo.
 See Description.pdf.
 
 ## Soft Actor-Critic
-SAC code was modified from https://spinningup.openai.com/en/latest/. Install the package and train agents in custom environments.
+SAC code was modified from https://spinningup.openai.com/en/latest/. The package needs to be installed to train agents in custom environments.
 
 ## Correspondence
 Hiroshi Makino, Lee Kong Chian School of Medicine, Nanyang Technological University
