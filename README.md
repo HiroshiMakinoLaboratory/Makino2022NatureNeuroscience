@@ -1,6 +1,7 @@
 # Makino2022NatureNeuroscience
 
 Analysis code for Makino H. Arithmetic value representation for hierarchical behavior composition. Nature Neuroscience.
+
 DOI: 10.1038/s41593-022-01211-5
 
 ## Dataset
